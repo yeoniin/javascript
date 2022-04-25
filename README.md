@@ -1,4 +1,10 @@
 --
+링크<br>
+1. GIT : https://github.com/yeoniin/javascript.git
+2. SLACK : https://jwjstudy.slack.com/
+3. 프로그래머스 : https://programmers.co.kr/
+
+--
 스터디 목차[Front] <br>
 
 1. 깃 기초 : https://backlog.com/git-tutorial/kr/intro/intro1_1.html
