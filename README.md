@@ -29,4 +29,7 @@ OT<br>
 3. 프론트엔드 와 백엔드의 차이점 및 앞으로 공부 진행방향 결정하기
 
 --
-2주차 [] <br>
+2주차 [20220502 ~ 20220508] <br>
+
+1. 프로그래머스 코드테스트_003 : https://programmers.co.kr/learn/courses/30/lessons/12969
+2. 프로그래머스 코드테스트_004 : https://programmers.co.kr/learn/courses/30/lessons/12935
