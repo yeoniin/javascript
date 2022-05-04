@@ -3,7 +3,9 @@
 1. GIT : https://github.com/yeoniin/javascript.git
 2. SLACK : https://jwjstudy.slack.com/
 3. 프로그래머스 : https://programmers.co.kr/
-4. 면접관련 : https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0
+4. 면접관련
+  - https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0
+  - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 --
 스터디 목차[Front] <br>
 
